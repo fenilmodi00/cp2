@@ -50,7 +50,7 @@ By using Docker, you can ensure that the environment in which the application is
 My project is composed of different services (frontend,API). Therefore, our application should run on multiple containers. With the help of Docker-compose we can share our application using the yaml file that define the services that runs together.
 
 ### Generative AI Models for Medical Report Analysis and Fitness Recommendations
-This project explores the application of several Generative AI models in the context of medical report analysis and personalized fitness recommendations. The following models were used:
+My project explores the application of several Generative AI models in the context of medical report analysis and personalized fitness recommendations. The following models were used:
 
 #### BioGPT: 
 A domain-specific model for processing medical text.
