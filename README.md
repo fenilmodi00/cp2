@@ -1,4 +1,4 @@
-# Diet-Recommendation-System
+# FitHaven : A Personalised Diet and Fitness Recommendation System
 
 ## :bookmark_tabs:Table of contents
 * [General info](#general-info)
