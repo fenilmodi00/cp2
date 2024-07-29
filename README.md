@@ -96,7 +96,7 @@ The project is created with:
 ### Run it locally
 #### Clone the repo
 ```
-$ git clone https://github.com/vishesh200/SparkTheSummer-The-Epic-Byte-005/tree/main
+$ git clone https://github.com/vishesh200/SparkTheSummer-The-Epic-Byte-005.git
 ```
 ### docker-compose
 In the project root run:
